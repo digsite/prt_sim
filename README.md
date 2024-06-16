@@ -6,7 +6,7 @@
 
 1. Download the [latest version from releases](https://github.com/digsite/prt_sim/releases)
 2. Copy the executable to the H2EK root directory
-3. You may need to install the DirectX Redistributable provided, if you haven't already installed the latest DirectX End-User Runtimes (June 2010) bundle.
+3. You may need to install the DirectX redist package provided, if you haven't already installed the latest DirectX End-User Runtimes (June 2010) bundle.
 
 # Usage
 
