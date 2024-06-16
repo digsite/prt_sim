@@ -1,6 +1,6 @@
 # `prt_sim` - Precomputed Radiance Transfer Helper
 
-`prt_sim` is a helper tool that calculates [PRT lighting](https://learn.microsoft.com/en-us/windows/win32/direct3d9/precomputed-radiance-transfer) for an input rigid single material mesh, compresses the result and saves it out to disk for further processing by tool. PRT allows for better lighting for large objects including self shadowing.
+`prt_sim` is a helper tool that calculates [PRT lighting](https://learn.microsoft.com/en-us/windows/win32/direct3d9/precomputed-radiance-transfer) for an input rigid single material mesh, compresses the result and saves it out to disk for further processing by tool. PRT allows for better lighting for complex objects including self shadowing.
 
 # Instalation
 
