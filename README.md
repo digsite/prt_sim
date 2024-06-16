@@ -22,6 +22,10 @@ For an existing PRT enabled render model you can re-run the PRT simulation using
 tool prt-simulation scenarios\objects\multi\zanzibar\main_crane\main_crane
 ```
 
+# Disclaimer
+
+**THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.***
+
 # LICENSE
 Note that this project is ***not*** open source. You are not granted any rights to use this content commercially, or for any projects outside of Halo: The Master Chief Collection. Please read the MCC EULA, MCC EULA FAQ, and Xbox EULA for additional information and context.
 
