@@ -31,6 +31,8 @@ tool prt-simulation scenarios\objects\multi\zanzibar\main_crane\main_crane
 # LICENSE
 Note that this project is ***not*** open source. You are not granted any rights to use this content commercially, or for any projects outside of Halo: The Master Chief Collection. Please read the MCC EULA, MCC EULA FAQ, and Xbox EULA for additional information and context.
 
+As a courtesy pointing to this reprository instead of rehosting `prt_sim` is preferred when possible, as this ensures users can access the latest version of the tool.
+
 ## EULA
 * https://www.halowaypoint.com/halo-the-master-chief-collection/eula
 * https://www.halowaypoint.com/news/mccs-eula-the-faq
