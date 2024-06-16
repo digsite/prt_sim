@@ -2,6 +2,8 @@
 
 `prt_sim` is a helper tool that calculates [PRT lighting](https://learn.microsoft.com/en-us/windows/win32/direct3d9/precomputed-radiance-transfer) for an input rigid single material mesh, compresses the result and saves it out to disk for further processing by tool. PRT allows for better lighting for complex objects including self shadowing.
 
+![Comparison of a PRT enabled evalator model vs a non PRT enabled model on moonbase](prt_comparison.png)
+
 # Instalation
 
 1. Download the [latest version from releases](https://github.com/digsite/prt_sim/releases)
